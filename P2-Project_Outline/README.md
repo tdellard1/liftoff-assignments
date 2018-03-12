@@ -18,19 +18,19 @@ Google Firebase(Phone AUth) - Users will be required to verify their phone numbe
 MediaPlayer - Users will be able to selected what message they want played to them based off them listening to them before-hand.
 
 ### Technologies ##
-Java
-TwiML
-XML
-Node.js
-Android Studio
-Visual Studio Code
-Ngrok
-Google Firebase
-Twilio
+Java,
+TwiML,
+XML,
+Node.js,
+Android Studio,
+Visual Studio Code,
+Ngrok,
+Google Firebase,
+Twilio,
 
 
 ### What I'll Have to Learn
-Learn how to send request to an API
-Learn how to develop and deploy applications
-Learn how to make Back-end Servers
-Learn how to troubleshoot errors more accurately
+Learn how to send request to an API,
+Learn how to develop and deploy applications,
+Learn how to make Back-end Servers,
+Learn how to troubleshoot errors more accurately,
