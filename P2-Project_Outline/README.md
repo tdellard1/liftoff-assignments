@@ -26,7 +26,7 @@ Android Studio,
 Visual Studio Code,
 Ngrok,
 Google Firebase,
-Twilio,
+Twilio
 
 
 ### What I'll Have to Learn
