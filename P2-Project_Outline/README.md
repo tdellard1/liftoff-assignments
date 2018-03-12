@@ -1,7 +1,7 @@
 # Project Outline
 For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
 
-## Assignment Description ##
+## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
 
 ## Submission Instructions
@@ -17,7 +17,7 @@ Twilio(CLoud Communications Platiform - Users will be able to click a button and
 Google Firebase(Phone AUth) - Users will be required to verify their phone number, so they don't spam call any other number desired.
 MediaPlayer - Users will be able to selected what message they want played to them based off them listening to them before-hand.
 
-### Technologies
+### Technologies ##
 Java
 TwiML
 XML
