@@ -7,23 +7,30 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Have you ever needed something right here and right now, but had no idea where or how to get it? We here at 3rd World Developers are here to help with your endevours. Introducing Near Me! An app with the sole purpose of finding that one thing you need right in that moment of time but don't know where to find it. You will be able to search for a specific item and be sent results of closest stores or individuals that have that item up for sale, with details on price and distance.
+Have you ever been in an awkward social situation where you wanted to get out of it but you couldn't without coming off disrespectful to the other party? Well you no longer need to deal with those dreadful awkward situations thanks to Pineapples! Pineapples(Kevin Hart Voice) is an app that will arrange for you to send yourself an urgent call and relay an urgent pre-recorded message from a mother, prison, hospital, etc. that will provide an excuse with justification for getting out of those awkward situations.
 
-The idea came when I was looking to use a specific tool that I could not, for the life of me, figure out where to find one. So I want to build an app that caters to those looking for an item and if they are not available. One can post that item that they are looking for, and someone who may not be posting it up for sale, but has it and doesn't care to seel it, can see it and sell it to them.
+The idea came to me when I was at a young ladys house. I was over there for one thing and one thing only. She didn't know that was my motive and said we were unable to do said thing and I didn't want to be there anymore. I had to fake a phone call to leave without hurting her feelings. Then I thought if only there was an app that could allow me to fake that phone call more legit... then *light bulb*
 
 ### Features
 
-Search Api - A search Api, provided by either Google or Bing, that will return results of a searched item.
-Social Media Authorization - THe ability for a user to log in with facebook/ or gmail
-Google Maps Api - Show location of products
-
+Twilio(CLoud Communications Platiform - Users will be able to click a button and get a call from Twilio with a message being played. 
+Google Firebase(Phone AUth) - Users will be required to verify their phone number, so they don't spam call any other number desired.
+MediaPlayer - Users will be able to selected what message they want played to them based off them listening to them before-hand.
 
 ### Technologies
 Java
-Javascript
+TwiML
 XML
+Node.js
 Android Studio
+Visual Studio Code
+Ngrok
+Google Firebase
+Twilio
+
 
 ### What I'll Have to Learn
-Learn how to use API
+Learn how to send request to an API
 Learn how to develop and deploy applications
+Learn how to make Back-end Servers
+Learn how to troubleshoot errors more accurately
