@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 https://github.com/tdellard1
 
 ### LinkedIn
-https://www.linkedin.com/in/travis-dellard-595497a7/
+https://www.linkedin.com/in/travis-dellard
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
